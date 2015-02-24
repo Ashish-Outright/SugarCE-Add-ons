@@ -150,3 +150,4 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Web Self-Service
 
 ## Workflow
+* [Advanced Workflows](https://github.com/gcoop-libre/sugarcrm_advanced_workflows) This workflow engine is inspired by Sebastian Bergman "Design and Implementation of Workflow Engine" paper.
